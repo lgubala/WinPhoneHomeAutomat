@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Pejko\Desktop\T109\T109\bin\x64\Debug\T109_1.0.6.0_x64_Debug.appx
+SymbolPackage=C:\Users\Pejko\Desktop\T109\T109\AppPackages\T109_1.0.6.0_Debug_Test\T109_1.0.6.0_x64_Debug.appxsym
